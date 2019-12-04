@@ -3,6 +3,12 @@
 
 - ### [02-Linux基础命令](./linux/doc/02.Linux基础命令.md)
 
+- ### [03-VIM编辑器](./linux/doc/03.VIM编辑器.md)
+
+- ### [04-用户和权限](./linux/doc/04.用户和权限.md)
+
+  
+
 ## HTTP协议
 - ### [01-HTTP的前世今生](./http/doc/01.HTTP的前世今生.md)
 
