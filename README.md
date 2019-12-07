@@ -7,6 +7,12 @@
 
 - ### [04-用户和权限](./linux/doc/04.用户和权限.md)
 
+- ### [05-Linux网络管理](./linux/doc/05.网络管理.md)
+
+- ### [06-Linux软件管理](./linux/doc/06.Linux软件管理.md)
+
+- ### [07-Linux进程管理](./linux/doc/07.Linux进程管理.md)
+
   
 
 ## HTTP协议
